@@ -4,10 +4,11 @@ Description: A simple Todo App built with React where users can add, edit, and d
 
 Technologies Used: React, React Hooks, Javascript, CSS
 
-**Key Features**:
+**Features**:
 - Add and Delete tasks
 - React hooks - useState
 - Input validation to prevent users from adding empty tasks or tasks that contain only whitespace.
+- CSS: for fonts, colour and flebox for responsive design.
 
 **My role**:
 
@@ -16,6 +17,7 @@ Technologies Used: React, React Hooks, Javascript, CSS
 - Features to allow users to add new tasks, and handle empty or invalid input (like just spaces). Additionally, I developed the functionality to remove tasks from the list, ensuring the app responded to user interactions smoothly.
 
 - Enabled the app to handle user input efficiently by capturing text input through event handlers and adding tasks with a button click or by pressing "Enter".
+  
 
 
 # Full Documentation:
