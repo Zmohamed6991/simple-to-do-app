@@ -1,4 +1,4 @@
-Project Title: To Do App
+# Project Title: To Do App
 
 Description: A simple Todo App built with React where users can add, edit, and delete tasks. 
 
@@ -20,6 +20,22 @@ Technologies Used: React, React Hooks, Javascript, CSS
 
 # Full Documentation:
 
+**To start the application**:
+- Clone the repository by using:
+
+      git clone https://github.com/Zmohamed6991/simple-to-do-app
+  
+- Install dependencies by using:
+  
+           npm install
+  
+- To start the application on the server use:
+  
+         npm start
+
+- The application should open in the browser on localhost:3000,
+- if it does not, open your browser and go to http://localhost:3000
+  
 
 
 
