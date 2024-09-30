@@ -2,7 +2,7 @@ Project Title: To Do App
 
 Description: A simple Todo App built with React where users can add, edit, and delete tasks. 
 
-Technologies Used: React 
+Technologies Used: React, React Hooks, Javascript, CSS
 
 Key Features:
 
